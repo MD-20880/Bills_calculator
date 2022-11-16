@@ -1,5 +1,7 @@
 /*
 This is the final result of program bills.py
+
+Positive means you need to pay, negative means you need to receive.
 */
 
 
