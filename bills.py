@@ -56,7 +56,7 @@ def getMembers(transaction) -> list[str]:
     for p in consumers:
         result.append(p["name"])
     return result
-
+index = 0
 # The resultDict contains the value in resultDict[person1][person2] means person1 should pay person2 resultDict[From][To]
 resultDict = {}
 data = queryDB()
@@ -69,21 +69,25 @@ for t in data["results"]:
     participants = set(consumers)
     participants.add(pay)
 
+    print(f"__________transaction {index}____________")
     if amount is not None:
         total += amount
         split = amount/(len(participants))
-        # print( f"{pay} 付款 {amount}")
+        print( f"{pay} 付款 {amount}")
         for c in consumers:
             if c == pay:
                 continue
-            # print(f"{c} 付款 {split} 给 {pay}")
+            print(f"{c} 付款 {split} 给 {pay}")
             if resultDict.get(c) is not None:
                 if resultDict[c].get(pay) is None:
                     resultDict[c][pay] = split
                 else:
                     resultDict[c][pay] += split
             else:
-                resultDict[c] = {pay:split}       
+                resultDict[c] = {pay:split}  
+    
+    print(f"__________transaction {index} END____________\n\n\n")     
+    index += 1
     
 intertransaction = copy.deepcopy(resultDict)
 for p1 in resultDict.keys():

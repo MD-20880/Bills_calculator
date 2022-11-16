@@ -1,0 +1,661 @@
+__________transaction 0____________
+Wenting Sun 付款 16.65
+Casper Wang 付款 3.3299999999999996 给 Wenting Sun
+朝阳 郝 付款 3.3299999999999996 给 Wenting Sun
+astastya 付款 3.3299999999999996 给 Wenting Sun
+SUMIKA Midori 付款 3.3299999999999996 给 Wenting Sun
+__________transaction 0 END____________
+
+
+
+__________transaction 1____________
+__________transaction 1 END____________
+
+
+
+__________transaction 2____________
+Wenting Sun 付款 62.36
+Casper Wang 付款 15.59 给 Wenting Sun
+astastya 付款 15.59 给 Wenting Sun
+朝阳 郝 付款 15.59 给 Wenting Sun
+__________transaction 2 END____________
+
+
+
+__________transaction 3____________
+SUMIKA Midori 付款 60
+Casper Wang 付款 12.0 给 SUMIKA Midori
+朝阳 郝 付款 12.0 给 SUMIKA Midori
+Wenting Sun 付款 12.0 给 SUMIKA Midori
+astastya 付款 12.0 给 SUMIKA Midori
+__________transaction 3 END____________
+
+
+
+__________transaction 4____________
+SUMIKA Midori 付款 59
+Casper Wang 付款 9.833333333333334 给 SUMIKA Midori
+朝阳 郝 付款 9.833333333333334 给 SUMIKA Midori
+Wenting Sun 付款 9.833333333333334 给 SUMIKA Midori
+astastya 付款 9.833333333333334 给 SUMIKA Midori
+伯涵 刘 付款 9.833333333333334 给 SUMIKA Midori
+__________transaction 4 END____________
+
+
+
+__________transaction 5____________
+astastya 付款 32
+Casper Wang 付款 6.4 给 astastya
+Wenting Sun 付款 6.4 给 astastya
+朝阳 郝 付款 6.4 给 astastya
+SUMIKA Midori 付款 6.4 给 astastya
+__________transaction 5 END____________
+
+
+
+__________transaction 6____________
+SUMIKA Midori 付款 60.69
+astastya 付款 15.1725 给 SUMIKA Midori
+Wenting Sun 付款 15.1725 给 SUMIKA Midori
+朝阳 郝 付款 15.1725 给 SUMIKA Midori
+__________transaction 6 END____________
+
+
+
+__________transaction 7____________
+SUMIKA Midori 付款 53.84
+Casper Wang 付款 10.768 给 SUMIKA Midori
+朝阳 郝 付款 10.768 给 SUMIKA Midori
+Wenting Sun 付款 10.768 给 SUMIKA Midori
+astastya 付款 10.768 给 SUMIKA Midori
+__________transaction 7 END____________
+
+
+
+__________transaction 8____________
+SUMIKA Midori 付款 35
+Casper Wang 付款 7.0 给 SUMIKA Midori
+朝阳 郝 付款 7.0 给 SUMIKA Midori
+Wenting Sun 付款 7.0 给 SUMIKA Midori
+astastya 付款 7.0 给 SUMIKA Midori
+__________transaction 8 END____________
+
+
+
+__________transaction 9____________
+astastya 付款 9.85
+Casper Wang 付款 1.97 给 astastya
+朝阳 郝 付款 1.97 给 astastya
+Wenting Sun 付款 1.97 给 astastya
+SUMIKA Midori 付款 1.97 给 astastya
+__________transaction 9 END____________
+
+
+
+__________transaction 10____________
+朝阳 郝 付款 32.48
+astastya 付款 6.4959999999999996 给 朝阳 郝
+SUMIKA Midori 付款 6.4959999999999996 给 朝阳 郝
+Casper Wang 付款 6.4959999999999996 给 朝阳 郝
+Wenting Sun 付款 6.4959999999999996 给 朝阳 郝
+__________transaction 10 END____________
+
+
+
+__________transaction 11____________
+Wenting Sun 付款 54.55
+朝阳 郝 付款 13.6375 给 Wenting Sun
+astastya 付款 13.6375 给 Wenting Sun
+SUMIKA Midori 付款 13.6375 给 Wenting Sun
+__________transaction 11 END____________
+
+
+
+__________transaction 12____________
+朝阳 郝 付款 11.1
+Casper Wang 付款 2.2199999999999998 给 朝阳 郝
+Wenting Sun 付款 2.2199999999999998 给 朝阳 郝
+astastya 付款 2.2199999999999998 给 朝阳 郝
+SUMIKA Midori 付款 2.2199999999999998 给 朝阳 郝
+__________transaction 12 END____________
+
+
+
+__________transaction 13____________
+朝阳 郝 付款 51
+Casper Wang 付款 10.2 给 朝阳 郝
+Wenting Sun 付款 10.2 给 朝阳 郝
+astastya 付款 10.2 给 朝阳 郝
+SUMIKA Midori 付款 10.2 给 朝阳 郝
+__________transaction 13 END____________
+
+
+
+__________transaction 14____________
+朝阳 郝 付款 64.4
+Wenting Sun 付款 21.46666666666667 给 朝阳 郝
+伯涵 刘 付款 21.46666666666667 给 朝阳 郝
+__________transaction 14 END____________
+
+
+
+__________transaction 15____________
+SUMIKA Midori 付款 54.5
+朝阳 郝 付款 13.625 给 SUMIKA Midori
+Wenting Sun 付款 13.625 给 SUMIKA Midori
+astastya 付款 13.625 给 SUMIKA Midori
+__________transaction 15 END____________
+
+
+
+__________transaction 16____________
+astastya 付款 25.29
+朝阳 郝 付款 6.3225 给 astastya
+Wenting Sun 付款 6.3225 给 astastya
+SUMIKA Midori 付款 6.3225 给 astastya
+__________transaction 16 END____________
+
+
+
+__________transaction 17____________
+astastya 付款 9.95
+Casper Wang 付款 1.9899999999999998 给 astastya
+朝阳 郝 付款 1.9899999999999998 给 astastya
+Wenting Sun 付款 1.9899999999999998 给 astastya
+SUMIKA Midori 付款 1.9899999999999998 给 astastya
+__________transaction 17 END____________
+
+
+
+__________transaction 18____________
+astastya 付款 8.5
+Casper Wang 付款 1.7 给 astastya
+朝阳 郝 付款 1.7 给 astastya
+Wenting Sun 付款 1.7 给 astastya
+SUMIKA Midori 付款 1.7 给 astastya
+__________transaction 18 END____________
+
+
+
+__________transaction 19____________
+astastya 付款 3.4
+朝阳 郝 付款 0.85 给 astastya
+Wenting Sun 付款 0.85 给 astastya
+SUMIKA Midori 付款 0.85 给 astastya
+__________transaction 19 END____________
+
+
+
+__________transaction 20____________
+astastya 付款 2.2
+朝阳 郝 付款 0.55 给 astastya
+Wenting Sun 付款 0.55 给 astastya
+SUMIKA Midori 付款 0.55 给 astastya
+__________transaction 20 END____________
+
+
+
+__________transaction 21____________
+astastya 付款 17.28
+Casper Wang 付款 3.4560000000000004 给 astastya
+朝阳 郝 付款 3.4560000000000004 给 astastya
+Wenting Sun 付款 3.4560000000000004 给 astastya
+SUMIKA Midori 付款 3.4560000000000004 给 astastya
+__________transaction 21 END____________
+
+
+
+__________transaction 22____________
+astastya 付款 3.25
+Casper Wang 付款 0.65 给 astastya
+朝阳 郝 付款 0.65 给 astastya
+Wenting Sun 付款 0.65 给 astastya
+SUMIKA Midori 付款 0.65 给 astastya
+__________transaction 22 END____________
+
+
+
+__________transaction 23____________
+astastya 付款 9.4
+Casper Wang 付款 1.8800000000000001 给 astastya
+朝阳 郝 付款 1.8800000000000001 给 astastya
+Wenting Sun 付款 1.8800000000000001 给 astastya
+伯涵 刘 付款 1.8800000000000001 给 astastya
+__________transaction 23 END____________
+
+
+
+__________transaction 24____________
+astastya 付款 20.9
+Casper Wang 付款 4.18 给 astastya
+朝阳 郝 付款 4.18 给 astastya
+Wenting Sun 付款 4.18 给 astastya
+SUMIKA Midori 付款 4.18 给 astastya
+__________transaction 24 END____________
+
+
+
+__________transaction 25____________
+SUMIKA Midori 付款 95.7
+astastya 付款 19.14 给 SUMIKA Midori
+Wenting Sun 付款 19.14 给 SUMIKA Midori
+Casper Wang 付款 19.14 给 SUMIKA Midori
+朝阳 郝 付款 19.14 给 SUMIKA Midori
+__________transaction 25 END____________
+
+
+
+__________transaction 26____________
+Wenting Sun 付款 56.14
+Casper Wang 付款 11.228 给 Wenting Sun
+朝阳 郝 付款 11.228 给 Wenting Sun
+astastya 付款 11.228 给 Wenting Sun
+SUMIKA Midori 付款 11.228 给 Wenting Sun
+__________transaction 26 END____________
+
+
+
+__________transaction 27____________
+Wenting Sun 付款 70.03
+朝阳 郝 付款 23.343333333333334 给 Wenting Sun
+SUMIKA Midori 付款 23.343333333333334 给 Wenting Sun
+__________transaction 27 END____________
+
+
+
+__________transaction 28____________
+朝阳 郝 付款 36.81
+Wenting Sun 付款 7.362 给 朝阳 郝
+伯涵 刘 付款 7.362 给 朝阳 郝
+SUMIKA Midori 付款 7.362 给 朝阳 郝
+astastya 付款 7.362 给 朝阳 郝
+__________transaction 28 END____________
+
+
+
+__________transaction 29____________
+astastya 付款 22.3
+Casper Wang 付款 4.46 给 astastya
+朝阳 郝 付款 4.46 给 astastya
+Wenting Sun 付款 4.46 给 astastya
+SUMIKA Midori 付款 4.46 给 astastya
+__________transaction 29 END____________
+
+
+
+__________transaction 30____________
+Casper Wang 付款 10.1
+朝阳 郝 付款 2.02 给 Casper Wang
+Wenting Sun 付款 2.02 给 Casper Wang
+astastya 付款 2.02 给 Casper Wang
+SUMIKA Midori 付款 2.02 给 Casper Wang
+__________transaction 30 END____________
+
+
+
+__________transaction 31____________
+astastya 付款 36.07
+Casper Wang 付款 7.214 给 astastya
+朝阳 郝 付款 7.214 给 astastya
+Wenting Sun 付款 7.214 给 astastya
+SUMIKA Midori 付款 7.214 给 astastya
+__________transaction 31 END____________
+
+
+
+__________transaction 32____________
+Wenting Sun 付款 9
+朝阳 郝 付款 3.0 给 Wenting Sun
+astastya 付款 3.0 给 Wenting Sun
+__________transaction 32 END____________
+
+
+
+__________transaction 33____________
+Wenting Sun 付款 26.47
+Casper Wang 付款 6.6175 给 Wenting Sun
+朝阳 郝 付款 6.6175 给 Wenting Sun
+SUMIKA Midori 付款 6.6175 给 Wenting Sun
+__________transaction 33 END____________
+
+
+
+__________transaction 34____________
+astastya 付款 65
+Casper Wang 付款 21.666666666666668 给 astastya
+Wenting Sun 付款 21.666666666666668 给 astastya
+__________transaction 34 END____________
+
+
+
+__________transaction 35____________
+朝阳 郝 付款 105.11
+Wenting Sun 付款 26.2775 给 朝阳 郝
+伯涵 刘 付款 26.2775 给 朝阳 郝
+SUMIKA Midori 付款 26.2775 给 朝阳 郝
+__________transaction 35 END____________
+
+
+
+__________transaction 36____________
+SUMIKA Midori 付款 38
+朝阳 郝 付款 7.6 给 SUMIKA Midori
+Wenting Sun 付款 7.6 给 SUMIKA Midori
+astastya 付款 7.6 给 SUMIKA Midori
+Casper Wang 付款 7.6 给 SUMIKA Midori
+__________transaction 36 END____________
+
+
+
+__________transaction 37____________
+astastya 付款 11.79
+Casper Wang 付款 1.9649999999999999 给 astastya
+朝阳 郝 付款 1.9649999999999999 给 astastya
+Wenting Sun 付款 1.9649999999999999 给 astastya
+伯涵 刘 付款 1.9649999999999999 给 astastya
+SUMIKA Midori 付款 1.9649999999999999 给 astastya
+__________transaction 37 END____________
+
+
+
+__________transaction 38____________
+朝阳 郝 付款 7.6
+Wenting Sun 付款 1.52 给 朝阳 郝
+astastya 付款 1.52 给 朝阳 郝
+Casper Wang 付款 1.52 给 朝阳 郝
+SUMIKA Midori 付款 1.52 给 朝阳 郝
+__________transaction 38 END____________
+
+
+
+__________transaction 39____________
+Wenting Sun 付款 13.23
+朝阳 郝 付款 4.41 给 Wenting Sun
+astastya 付款 4.41 给 Wenting Sun
+__________transaction 39 END____________
+
+
+
+__________transaction 40____________
+朝阳 郝 付款 36.24
+Wenting Sun 付款 12.08 给 朝阳 郝
+astastya 付款 12.08 给 朝阳 郝
+__________transaction 40 END____________
+
+
+
+__________transaction 41____________
+SUMIKA Midori 付款 45
+Casper Wang 付款 7.5 给 SUMIKA Midori
+朝阳 郝 付款 7.5 给 SUMIKA Midori
+Wenting Sun 付款 7.5 给 SUMIKA Midori
+astastya 付款 7.5 给 SUMIKA Midori
+伯涵 刘 付款 7.5 给 SUMIKA Midori
+__________transaction 41 END____________
+
+
+
+__________transaction 42____________
+朝阳 郝 付款 118.65
+SUMIKA Midori 付款 39.550000000000004 给 朝阳 郝
+Wenting Sun 付款 39.550000000000004 给 朝阳 郝
+__________transaction 42 END____________
+
+
+
+__________transaction 43____________
+astastya 付款 23.92
+Casper Wang 付款 4.784000000000001 给 astastya
+朝阳 郝 付款 4.784000000000001 给 astastya
+Wenting Sun 付款 4.784000000000001 给 astastya
+SUMIKA Midori 付款 4.784000000000001 给 astastya
+__________transaction 43 END____________
+
+
+
+__________transaction 44____________
+Wenting Sun 付款 39.48
+Casper Wang 付款 7.895999999999999 给 Wenting Sun
+朝阳 郝 付款 7.895999999999999 给 Wenting Sun
+astastya 付款 7.895999999999999 给 Wenting Sun
+SUMIKA Midori 付款 7.895999999999999 给 Wenting Sun
+__________transaction 44 END____________
+
+
+
+__________transaction 45____________
+Wenting Sun 付款 36.7
+朝阳 郝 付款 12.233333333333334 给 Wenting Sun
+伯涵 刘 付款 12.233333333333334 给 Wenting Sun
+__________transaction 45 END____________
+
+
+
+__________transaction 46____________
+朝阳 郝 付款 58.99
+Wenting Sun 付款 14.7475 给 朝阳 郝
+伯涵 刘 付款 14.7475 给 朝阳 郝
+SUMIKA Midori 付款 14.7475 给 朝阳 郝
+__________transaction 46 END____________
+
+
+
+__________transaction 47____________
+Wenting Sun 付款 77.14
+Casper Wang 付款 19.285 给 Wenting Sun
+朝阳 郝 付款 19.285 给 Wenting Sun
+SUMIKA Midori 付款 19.285 给 Wenting Sun
+__________transaction 47 END____________
+
+
+
+__________transaction 48____________
+NO BUYER 付款 6.7
+Casper Wang 付款 1.34 给 NO BUYER
+朝阳 郝 付款 1.34 给 NO BUYER
+Wenting Sun 付款 1.34 给 NO BUYER
+SUMIKA Midori 付款 1.34 给 NO BUYER
+__________transaction 48 END____________
+
+
+
+__________transaction 49____________
+朝阳 郝 付款 46.63
+Casper Wang 付款 11.6575 给 朝阳 郝
+SUMIKA Midori 付款 11.6575 给 朝阳 郝
+astastya 付款 11.6575 给 朝阳 郝
+__________transaction 49 END____________
+
+
+
+__________transaction 50____________
+Wenting Sun 付款 12.58
+Casper Wang 付款 3.145 给 Wenting Sun
+朝阳 郝 付款 3.145 给 Wenting Sun
+SUMIKA Midori 付款 3.145 给 Wenting Sun
+__________transaction 50 END____________
+
+
+
+__________transaction 51____________
+Casper Wang 付款 29.5
+Wenting Sun 付款 7.375 给 Casper Wang
+astastya 付款 7.375 给 Casper Wang
+SUMIKA Midori 付款 7.375 给 Casper Wang
+__________transaction 51 END____________
+
+
+
+__________transaction 52____________
+SUMIKA Midori 付款 9.37
+Casper Wang 付款 1.8739999999999999 给 SUMIKA Midori
+朝阳 郝 付款 1.8739999999999999 给 SUMIKA Midori
+Wenting Sun 付款 1.8739999999999999 给 SUMIKA Midori
+astastya 付款 1.8739999999999999 给 SUMIKA Midori
+__________transaction 52 END____________
+
+
+
+__________transaction 53____________
+Wenting Sun 付款 82.42
+Casper Wang 付款 20.605 给 Wenting Sun
+astastya 付款 20.605 给 Wenting Sun
+朝阳 郝 付款 20.605 给 Wenting Sun
+__________transaction 53 END____________
+
+
+
+__________transaction 54____________
+Casper Wang 付款 41.57
+朝阳 郝 付款 8.314 给 Casper Wang
+Wenting Sun 付款 8.314 给 Casper Wang
+astastya 付款 8.314 给 Casper Wang
+SUMIKA Midori 付款 8.314 给 Casper Wang
+__________transaction 54 END____________
+
+
+
+__________transaction 55____________
+Wenting Sun 付款 21.93
+Casper Wang 付款 4.386 给 Wenting Sun
+朝阳 郝 付款 4.386 给 Wenting Sun
+astastya 付款 4.386 给 Wenting Sun
+SUMIKA Midori 付款 4.386 给 Wenting Sun
+__________transaction 55 END____________
+
+
+
+__________transaction 56____________
+astastya 付款 28.25
+朝阳 郝 付款 5.65 给 astastya
+Wenting Sun 付款 5.65 给 astastya
+SUMIKA Midori 付款 5.65 给 astastya
+Casper Wang 付款 5.65 给 astastya
+__________transaction 56 END____________
+
+
+
+__________transaction 57____________
+朝阳 郝 付款 79.38
+Casper Wang 付款 15.876 给 朝阳 郝
+Wenting Sun 付款 15.876 给 朝阳 郝
+astastya 付款 15.876 给 朝阳 郝
+SUMIKA Midori 付款 15.876 给 朝阳 郝
+__________transaction 57 END____________
+
+
+
+__________transaction 58____________
+SUMIKA Midori 付款 77
+Casper Wang 付款 15.4 给 SUMIKA Midori
+朝阳 郝 付款 15.4 给 SUMIKA Midori
+Wenting Sun 付款 15.4 给 SUMIKA Midori
+astastya 付款 15.4 给 SUMIKA Midori
+__________transaction 58 END____________
+
+
+
+__________transaction 59____________
+NO BUYER 付款 42.54
+__________transaction 59 END____________
+
+
+
+__________transaction 60____________
+朝阳 郝 付款 9.3
+伯涵 刘 付款 3.1 给 朝阳 郝
+Casper Wang 付款 3.1 给 朝阳 郝
+__________transaction 60 END____________
+
+
+
+__________transaction 61____________
+Casper Wang 付款 42.54
+__________transaction 61 END____________
+
+
+
+__________transaction 62____________
+SUMIKA Midori 付款 28.77
+Casper Wang 付款 5.754 给 SUMIKA Midori
+朝阳 郝 付款 5.754 给 SUMIKA Midori
+Wenting Sun 付款 5.754 给 SUMIKA Midori
+astastya 付款 5.754 给 SUMIKA Midori
+__________transaction 62 END____________
+
+
+
+__________transaction 63____________
+朝阳 郝 付款 5.4
+Casper Wang 付款 1.08 给 朝阳 郝
+Wenting Sun 付款 1.08 给 朝阳 郝
+astastya 付款 1.08 给 朝阳 郝
+SUMIKA Midori 付款 1.08 给 朝阳 郝
+__________transaction 63 END____________
+
+
+
+__________transaction 64____________
+NO BUYER 付款 56.25
+__________transaction 64 END____________
+
+
+
+__________transaction 65____________
+astastya 付款 4.75
+朝阳 郝 付款 0.95 给 astastya
+Casper Wang 付款 0.95 给 astastya
+Wenting Sun 付款 0.95 给 astastya
+SUMIKA Midori 付款 0.95 给 astastya
+__________transaction 65 END____________
+
+
+
+__________transaction 66____________
+Wenting Sun 付款 7.7
+Casper Wang 付款 1.925 给 Wenting Sun
+astastya 付款 1.925 给 Wenting Sun
+SUMIKA Midori 付款 1.925 给 Wenting Sun
+__________transaction 66 END____________
+
+
+
+__________transaction 67____________
+Wenting Sun 付款 9.83
+Casper Wang 付款 1.966 给 Wenting Sun
+朝阳 郝 付款 1.966 给 Wenting Sun
+astastya 付款 1.966 给 Wenting Sun
+SUMIKA Midori 付款 1.966 给 Wenting Sun
+__________transaction 67 END____________
+
+
+
+{'Casper Wang': {'NO BUYER': 1.34,
+                 'SUMIKA Midori': 79.16033333333334,
+                 'Wenting Sun': 78.26449999999998,
+                 'astastya': 51.20666666666666,
+                 '朝阳 郝': 41.8155},
+ 'SUMIKA Midori': {'Casper Wang': -79.16033333333334,
+                   'NO BUYER': 1.34,
+                   'Wenting Sun': -28.907500000000027,
+                   'astastya': -72.57533333333333,
+                   '朝阳 郝': 11.319666666666677},
+ 'Wenting Sun': {'Casper Wang': -78.26449999999998,
+                 'NO BUYER': 1.34,
+                 'SUMIKA Midori': 28.907500000000027,
+                 'astastya': -11.33533333333331,
+                 '朝阳 郝': 8.203000000000031},
+ 'astastya': {'Casper Wang': -51.20666666666666,
+              'SUMIKA Midori': 72.57533333333333,
+              'Wenting Sun': 11.33533333333331,
+              '朝阳 郝': 13.52000000000001},
+ '伯涵 刘': {'SUMIKA Midori': 17.333333333333336,
+          'Wenting Sun': 12.233333333333334,
+          'astastya': 3.8449999999999998,
+          '朝阳 郝': 72.95366666666666},
+ '朝阳 郝': {'Casper Wang': -41.8155,
+          'NO BUYER': 1.34,
+          'SUMIKA Midori': -11.319666666666677,
+          'Wenting Sun': -8.203000000000031,
+          'astastya': -13.52000000000001}}
+2439.4700000000003
