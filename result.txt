@@ -1,0 +1,36 @@
+/*
+This is the final result of program bills.py
+*/
+
+
+
+
+{'Casper Wang': {'NO BUYER': 1.34,
+                 'SUMIKA Midori': 79.16033333333334,
+                 'Wenting Sun': 59.34449999999998,
+                 'astastya': 51.20666666666666,
+                 '朝阳 郝': 41.8155},
+ 'SUMIKA Midori': {'Casper Wang': -79.16033333333334,
+                   'NO BUYER': 1.34,
+                   'Wenting Sun': -32.23750000000001,
+                   'astastya': -72.57533333333333,
+                   '朝阳 郝': 11.319666666666677},
+ 'Wenting Sun': {'Casper Wang': -59.34449999999998,
+                 'NO BUYER': 1.34,
+                 'SUMIKA Midori': 32.23750000000001,
+                 'astastya': 7.584666666666692,
+                 '朝阳 郝': 27.12300000000002},
+ 'astastya': {'Casper Wang': -51.20666666666666,
+              'SUMIKA Midori': 72.57533333333333,
+              'Wenting Sun': -7.584666666666692,
+              '朝阳 郝': 13.52000000000001},
+ '伯涵 刘': {'SUMIKA Midori': 17.333333333333336,
+          'Wenting Sun': 12.233333333333334,
+          'astastya': 3.8449999999999998,
+          '朝阳 郝': 72.95366666666666},
+ '朝阳 郝': {'Casper Wang': -41.8155,
+          'NO BUYER': 1.34,
+          'SUMIKA Midori': -11.319666666666677,
+          'Wenting Sun': -27.12300000000002,
+          'astastya': -13.52000000000001}}
+2360.46
