@@ -1,0 +1,825 @@
+__________transaction 0____________
+朝阳 郝 付款 32.6
+Casper Wang 付款 6.5200000000000005 给 朝阳 郝
+Wenting Sun 付款 6.5200000000000005 给 朝阳 郝
+astastya 付款 6.5200000000000005 给 朝阳 郝
+SUMIKA Midori 付款 6.5200000000000005 给 朝阳 郝
+__________transaction 0 END____________
+
+
+
+__________transaction 1____________
+SUMIKA Midori 付款 40
+Casper Wang 付款 8.0 给 SUMIKA Midori
+Wenting Sun 付款 8.0 给 SUMIKA Midori
+astastya 付款 8.0 给 SUMIKA Midori
+朝阳 郝 付款 8.0 给 SUMIKA Midori
+__________transaction 1 END____________
+
+
+
+__________transaction 2____________
+Wenting Sun 付款 75.02
+Casper Wang 付款 18.755 给 Wenting Sun
+astastya 付款 18.755 给 Wenting Sun
+SUMIKA Midori 付款 18.755 给 Wenting Sun
+__________transaction 2 END____________
+
+
+
+__________transaction 3____________
+Wenting Sun 付款 67.51
+Casper Wang 付款 13.502 给 Wenting Sun
+朝阳 郝 付款 13.502 给 Wenting Sun
+伯涵 刘 付款 13.502 给 Wenting Sun
+astastya 付款 13.502 给 Wenting Sun
+__________transaction 3 END____________
+
+
+
+__________transaction 4____________
+astastya 付款 17.17
+Casper Wang 付款 3.434 给 astastya
+朝阳 郝 付款 3.434 给 astastya
+Wenting Sun 付款 3.434 给 astastya
+SUMIKA Midori 付款 3.434 给 astastya
+__________transaction 4 END____________
+
+
+
+__________transaction 5____________
+astastya 付款 5.6
+Casper Wang 付款 1.4 给 astastya
+Wenting Sun 付款 1.4 给 astastya
+SUMIKA Midori 付款 1.4 给 astastya
+__________transaction 5 END____________
+
+
+
+__________transaction 6____________
+朝阳 郝 付款 14.6
+Casper Wang 付款 2.92 给 朝阳 郝
+Wenting Sun 付款 2.92 给 朝阳 郝
+astastya 付款 2.92 给 朝阳 郝
+SUMIKA Midori 付款 2.92 给 朝阳 郝
+__________transaction 6 END____________
+
+
+
+__________transaction 7____________
+__________transaction 7 END____________
+
+
+
+__________transaction 8____________
+Wenting Sun 付款 14.51
+SUMIKA Midori 付款 3.6275 给 Wenting Sun
+Casper Wang 付款 3.6275 给 Wenting Sun
+astastya 付款 3.6275 给 Wenting Sun
+__________transaction 8 END____________
+
+
+
+__________transaction 9____________
+__________transaction 9 END____________
+
+
+
+__________transaction 10____________
+astastya 付款 5.1
+Casper Wang 付款 1.275 给 astastya
+Wenting Sun 付款 1.275 给 astastya
+SUMIKA Midori 付款 1.275 给 astastya
+__________transaction 10 END____________
+
+
+
+__________transaction 11____________
+SUMIKA Midori 付款 14
+Casper Wang 付款 2.8 给 SUMIKA Midori
+朝阳 郝 付款 2.8 给 SUMIKA Midori
+Wenting Sun 付款 2.8 给 SUMIKA Midori
+astastya 付款 2.8 给 SUMIKA Midori
+__________transaction 11 END____________
+
+
+
+__________transaction 12____________
+SUMIKA Midori 付款 18
+Wenting Sun 付款 4.5 给 SUMIKA Midori
+Casper Wang 付款 4.5 给 SUMIKA Midori
+astastya 付款 4.5 给 SUMIKA Midori
+__________transaction 12 END____________
+
+
+
+__________transaction 13____________
+astastya 付款 17.45
+Wenting Sun 付款 5.816666666666666 给 astastya
+Casper Wang 付款 5.816666666666666 给 astastya
+__________transaction 13 END____________
+
+
+
+__________transaction 14____________
+Wenting Sun 付款 23.99
+Casper Wang 付款 4.798 给 Wenting Sun
+朝阳 郝 付款 4.798 给 Wenting Sun
+astastya 付款 4.798 给 Wenting Sun
+SUMIKA Midori 付款 4.798 给 Wenting Sun
+__________transaction 14 END____________
+
+
+
+__________transaction 15____________
+Wenting Sun 付款 50.18
+astastya 付款 12.545 给 Wenting Sun
+Casper Wang 付款 12.545 给 Wenting Sun
+朝阳 郝 付款 12.545 给 Wenting Sun
+__________transaction 15 END____________
+
+
+
+__________transaction 16____________
+__________transaction 16 END____________
+
+
+
+__________transaction 17____________
+__________transaction 17 END____________
+
+
+
+__________transaction 18____________
+朝阳 郝 付款 26.76
+Casper Wang 付款 6.69 给 朝阳 郝
+Wenting Sun 付款 6.69 给 朝阳 郝
+astastya 付款 6.69 给 朝阳 郝
+__________transaction 18 END____________
+
+
+
+__________transaction 19____________
+astastya 付款 14.75
+Casper Wang 付款 3.6875 给 astastya
+Wenting Sun 付款 3.6875 给 astastya
+SUMIKA Midori 付款 3.6875 给 astastya
+__________transaction 19 END____________
+
+
+
+__________transaction 20____________
+Wenting Sun 付款 12.83
+Casper Wang 付款 2.566 给 Wenting Sun
+朝阳 郝 付款 2.566 给 Wenting Sun
+astastya 付款 2.566 给 Wenting Sun
+SUMIKA Midori 付款 2.566 给 Wenting Sun
+__________transaction 20 END____________
+
+
+
+__________transaction 21____________
+Wenting Sun 付款 87.51
+Casper Wang 付款 17.502000000000002 给 Wenting Sun
+朝阳 郝 付款 17.502000000000002 给 Wenting Sun
+astastya 付款 17.502000000000002 给 Wenting Sun
+SUMIKA Midori 付款 17.502000000000002 给 Wenting Sun
+__________transaction 21 END____________
+
+
+
+__________transaction 22____________
+Wenting Sun 付款 80.57
+Casper Wang 付款 20.1425 给 Wenting Sun
+astastya 付款 20.1425 给 Wenting Sun
+SUMIKA Midori 付款 20.1425 给 Wenting Sun
+__________transaction 22 END____________
+
+
+
+__________transaction 23____________
+__________transaction 23 END____________
+
+
+
+__________transaction 24____________
+SUMIKA Midori 付款 10
+Casper Wang 付款 2.0 给 SUMIKA Midori
+朝阳 郝 付款 2.0 给 SUMIKA Midori
+Wenting Sun 付款 2.0 给 SUMIKA Midori
+astastya 付款 2.0 给 SUMIKA Midori
+__________transaction 24 END____________
+
+
+
+__________transaction 25____________
+Wenting Sun 付款 49.77
+Casper Wang 付款 12.4425 给 Wenting Sun
+astastya 付款 12.4425 给 Wenting Sun
+SUMIKA Midori 付款 12.4425 给 Wenting Sun
+__________transaction 25 END____________
+
+
+
+__________transaction 26____________
+astastya 付款 5
+Casper Wang 付款 1.25 给 astastya
+Wenting Sun 付款 1.25 给 astastya
+SUMIKA Midori 付款 1.25 给 astastya
+__________transaction 26 END____________
+
+
+
+__________transaction 27____________
+astastya 付款 8.25
+Casper Wang 付款 2.0625 给 astastya
+Wenting Sun 付款 2.0625 给 astastya
+SUMIKA Midori 付款 2.0625 给 astastya
+__________transaction 27 END____________
+
+
+
+__________transaction 28____________
+astastya 付款 7.99
+Casper Wang 付款 1.9975 给 astastya
+Wenting Sun 付款 1.9975 给 astastya
+SUMIKA Midori 付款 1.9975 给 astastya
+__________transaction 28 END____________
+
+
+
+__________transaction 29____________
+Casper Wang 付款 13.95
+朝阳 郝 付款 2.79 给 Casper Wang
+Wenting Sun 付款 2.79 给 Casper Wang
+astastya 付款 2.79 给 Casper Wang
+SUMIKA Midori 付款 2.79 给 Casper Wang
+__________transaction 29 END____________
+
+
+
+__________transaction 30____________
+Casper Wang 付款 18.95
+朝阳 郝 付款 3.79 给 Casper Wang
+Wenting Sun 付款 3.79 给 Casper Wang
+astastya 付款 3.79 给 Casper Wang
+SUMIKA Midori 付款 3.79 给 Casper Wang
+__________transaction 30 END____________
+
+
+
+__________transaction 31____________
+Casper Wang 付款 8.39
+朝阳 郝 付款 1.6780000000000002 给 Casper Wang
+Wenting Sun 付款 1.6780000000000002 给 Casper Wang
+astastya 付款 1.6780000000000002 给 Casper Wang
+SUMIKA Midori 付款 1.6780000000000002 给 Casper Wang
+__________transaction 31 END____________
+
+
+
+__________transaction 32____________
+SUMIKA Midori 付款 21
+Casper Wang 付款 7.0 给 SUMIKA Midori
+astastya 付款 7.0 给 SUMIKA Midori
+__________transaction 32 END____________
+
+
+
+__________transaction 33____________
+date None is before 2022-11-20. PASS
+__________transaction 33____________
+朝阳 郝 付款 24.84
+Wenting Sun 付款 6.21 给 朝阳 郝
+astastya 付款 6.21 给 朝阳 郝
+SUMIKA Midori 付款 6.21 给 朝阳 郝
+__________transaction 33 END____________
+
+
+
+__________transaction 34____________
+astastya 付款 11.58
+Casper Wang 付款 2.316 给 astastya
+朝阳 郝 付款 2.316 给 astastya
+Wenting Sun 付款 2.316 给 astastya
+SUMIKA Midori 付款 2.316 给 astastya
+__________transaction 34 END____________
+
+
+
+__________transaction 35____________
+astastya 付款 7.72
+Casper Wang 付款 1.544 给 astastya
+朝阳 郝 付款 1.544 给 astastya
+Wenting Sun 付款 1.544 给 astastya
+SUMIKA Midori 付款 1.544 给 astastya
+__________transaction 35 END____________
+
+
+
+__________transaction 36____________
+astastya 付款 0.83
+Casper Wang 付款 0.16599999999999998 给 astastya
+朝阳 郝 付款 0.16599999999999998 给 astastya
+Wenting Sun 付款 0.16599999999999998 给 astastya
+SUMIKA Midori 付款 0.16599999999999998 给 astastya
+__________transaction 36 END____________
+
+
+
+__________transaction 37____________
+朝阳 郝 付款 25
+Wenting Sun 付款 6.25 给 朝阳 郝
+astastya 付款 6.25 给 朝阳 郝
+SUMIKA Midori 付款 6.25 给 朝阳 郝
+__________transaction 37 END____________
+
+
+
+__________transaction 38____________
+SUMIKA Midori 付款 25
+Casper Wang 付款 5.0 给 SUMIKA Midori
+朝阳 郝 付款 5.0 给 SUMIKA Midori
+Wenting Sun 付款 5.0 给 SUMIKA Midori
+astastya 付款 5.0 给 SUMIKA Midori
+__________transaction 38 END____________
+
+
+
+__________transaction 39____________
+SUMIKA Midori 付款 80
+朝阳 郝 付款 20.0 给 SUMIKA Midori
+Wenting Sun 付款 20.0 给 SUMIKA Midori
+astastya 付款 20.0 给 SUMIKA Midori
+__________transaction 39 END____________
+
+
+
+__________transaction 40____________
+astastya 付款 9.58
+Wenting Sun 付款 4.79 给 astastya
+__________transaction 40 END____________
+
+
+
+__________transaction 41____________
+astastya 付款 32.33
+Wenting Sun 付款 10.776666666666666 给 astastya
+SUMIKA Midori 付款 10.776666666666666 给 astastya
+__________transaction 41 END____________
+
+
+
+__________transaction 42____________
+astastya 付款 8.49
+Wenting Sun 付款 2.83 给 astastya
+SUMIKA Midori 付款 2.83 给 astastya
+__________transaction 42 END____________
+
+
+
+__________transaction 43____________
+astastya 付款 41.17
+Wenting Sun 付款 13.723333333333334 给 astastya
+SUMIKA Midori 付款 13.723333333333334 给 astastya
+__________transaction 43 END____________
+
+
+
+__________transaction 44____________
+astastya 付款 12.3
+SUMIKA Midori 付款 4.1000000000000005 给 astastya
+Wenting Sun 付款 4.1000000000000005 给 astastya
+__________transaction 44 END____________
+
+
+
+__________transaction 45____________
+astastya 付款 2.79
+Wenting Sun 付款 0.93 给 astastya
+SUMIKA Midori 付款 0.93 给 astastya
+__________transaction 45 END____________
+
+
+
+__________transaction 46____________
+SUMIKA Midori 付款 65
+Casper Wang 付款 16.25 给 SUMIKA Midori
+Wenting Sun 付款 16.25 给 SUMIKA Midori
+astastya 付款 16.25 给 SUMIKA Midori
+__________transaction 46 END____________
+
+
+
+__________transaction 47____________
+SUMIKA Midori 付款 54
+Casper Wang 付款 13.5 给 SUMIKA Midori
+Wenting Sun 付款 13.5 给 SUMIKA Midori
+astastya 付款 13.5 给 SUMIKA Midori
+__________transaction 47 END____________
+
+
+
+__________transaction 48____________
+astastya 付款 7
+朝阳 郝 付款 1.75 给 astastya
+Wenting Sun 付款 1.75 给 astastya
+SUMIKA Midori 付款 1.75 给 astastya
+__________transaction 48 END____________
+
+
+
+__________transaction 49____________
+astastya 付款 3.55
+__________transaction 49 END____________
+
+
+
+__________transaction 50____________
+astastya 付款 8.42
+Casper Wang 付款 2.8066666666666666 给 astastya
+Wenting Sun 付款 2.8066666666666666 给 astastya
+__________transaction 50 END____________
+
+
+
+__________transaction 51____________
+astastya 付款 5.75
+Wenting Sun 付款 1.9166666666666667 给 astastya
+Casper Wang 付款 1.9166666666666667 给 astastya
+__________transaction 51 END____________
+
+
+
+__________transaction 52____________
+SUMIKA Midori 付款 60.35
+Casper Wang 付款 15.0875 给 SUMIKA Midori
+Wenting Sun 付款 15.0875 给 SUMIKA Midori
+astastya 付款 15.0875 给 SUMIKA Midori
+__________transaction 52 END____________
+
+
+
+__________transaction 53____________
+SUMIKA Midori 付款 37
+Casper Wang 付款 9.25 给 SUMIKA Midori
+Wenting Sun 付款 9.25 给 SUMIKA Midori
+astastya 付款 9.25 给 SUMIKA Midori
+__________transaction 53 END____________
+
+
+
+__________transaction 54____________
+Wenting Sun 付款 22.67
+Casper Wang 付款 4.534000000000001 给 Wenting Sun
+朝阳 郝 付款 4.534000000000001 给 Wenting Sun
+astastya 付款 4.534000000000001 给 Wenting Sun
+SUMIKA Midori 付款 4.534000000000001 给 Wenting Sun
+__________transaction 54 END____________
+
+
+
+__________transaction 55____________
+Casper Wang 付款 23.24
+astastya 付款 11.62 给 Casper Wang
+__________transaction 55 END____________
+
+
+
+__________transaction 56____________
+NO BUYER 付款 11.5
+Wenting Sun 付款 5.75 给 NO BUYER
+__________transaction 56 END____________
+
+
+
+__________transaction 57____________
+SUMIKA Midori 付款 70
+Casper Wang 付款 17.5 给 SUMIKA Midori
+Wenting Sun 付款 17.5 给 SUMIKA Midori
+astastya 付款 17.5 给 SUMIKA Midori
+__________transaction 57 END____________
+
+
+
+__________transaction 58____________
+SUMIKA Midori 付款 22
+Wenting Sun 付款 11.0 给 SUMIKA Midori
+__________transaction 58 END____________
+
+
+
+__________transaction 59____________
+SUMIKA Midori 付款 60
+Casper Wang 付款 15.0 给 SUMIKA Midori
+Wenting Sun 付款 15.0 给 SUMIKA Midori
+astastya 付款 15.0 给 SUMIKA Midori
+__________transaction 59 END____________
+
+
+
+__________transaction 60____________
+SUMIKA Midori 付款 31
+朝阳 郝 付款 6.2 给 SUMIKA Midori
+Wenting Sun 付款 6.2 给 SUMIKA Midori
+astastya 付款 6.2 给 SUMIKA Midori
+Casper Wang 付款 6.2 给 SUMIKA Midori
+__________transaction 60 END____________
+
+
+
+__________transaction 61____________
+Wenting Sun 付款 57.9
+Casper Wang 付款 11.58 给 Wenting Sun
+朝阳 郝 付款 11.58 给 Wenting Sun
+astastya 付款 11.58 给 Wenting Sun
+SUMIKA Midori 付款 11.58 给 Wenting Sun
+__________transaction 61 END____________
+
+
+
+__________transaction 62____________
+astastya 付款 22.48
+Casper Wang 付款 4.496 给 astastya
+朝阳 郝 付款 4.496 给 astastya
+Wenting Sun 付款 4.496 给 astastya
+伯涵 刘 付款 4.496 给 astastya
+__________transaction 62 END____________
+
+
+
+__________transaction 63____________
+astastya 付款 9.68
+Casper Wang 付款 1.936 给 astastya
+朝阳 郝 付款 1.936 给 astastya
+Wenting Sun 付款 1.936 给 astastya
+SUMIKA Midori 付款 1.936 给 astastya
+__________transaction 63 END____________
+
+
+
+__________transaction 64____________
+date None is before 2022-11-20. PASS
+__________transaction 64____________
+朝阳 郝 付款 24.83
+Casper Wang 付款 4.965999999999999 给 朝阳 郝
+Wenting Sun 付款 4.965999999999999 给 朝阳 郝
+SUMIKA Midori 付款 4.965999999999999 给 朝阳 郝
+astastya 付款 4.965999999999999 给 朝阳 郝
+__________transaction 64 END____________
+
+
+
+__________transaction 65____________
+Wenting Sun 付款 8.22
+Casper Wang 付款 1.6440000000000001 给 Wenting Sun
+朝阳 郝 付款 1.6440000000000001 给 Wenting Sun
+astastya 付款 1.6440000000000001 给 Wenting Sun
+SUMIKA Midori 付款 1.6440000000000001 给 Wenting Sun
+__________transaction 65 END____________
+
+
+
+__________transaction 66____________
+Casper Wang 付款 61
+朝阳 郝 付款 12.2 给 Casper Wang
+Wenting Sun 付款 12.2 给 Casper Wang
+astastya 付款 12.2 给 Casper Wang
+SUMIKA Midori 付款 12.2 给 Casper Wang
+__________transaction 66 END____________
+
+
+
+__________transaction 67____________
+astastya 付款 74.5
+Casper Wang 付款 18.625 给 astastya
+Wenting Sun 付款 18.625 给 astastya
+SUMIKA Midori 付款 18.625 给 astastya
+__________transaction 67 END____________
+
+
+
+__________transaction 68____________
+Wenting Sun 付款 102
+Casper Wang 付款 20.4 给 Wenting Sun
+朝阳 郝 付款 20.4 给 Wenting Sun
+astastya 付款 20.4 给 Wenting Sun
+SUMIKA Midori 付款 20.4 给 Wenting Sun
+__________transaction 68 END____________
+
+
+
+__________transaction 69____________
+astastya 付款 10
+Casper Wang 付款 2.0 给 astastya
+朝阳 郝 付款 2.0 给 astastya
+Wenting Sun 付款 2.0 给 astastya
+SUMIKA Midori 付款 2.0 给 astastya
+__________transaction 69 END____________
+
+
+
+__________transaction 70____________
+astastya 付款 12.06
+Casper Wang 付款 2.412 给 astastya
+朝阳 郝 付款 2.412 给 astastya
+Wenting Sun 付款 2.412 给 astastya
+SUMIKA Midori 付款 2.412 给 astastya
+__________transaction 70 END____________
+
+
+
+__________transaction 71____________
+__________transaction 71 END____________
+
+
+
+__________transaction 72____________
+date 2022-11-19 is before 2022-11-20. PASS
+__________transaction 72____________
+date 2022-11-17 is before 2022-11-20. PASS
+__________transaction 72____________
+__________transaction 72 END____________
+
+
+
+__________transaction 73____________
+date 2022-11-16 is before 2022-11-20. PASS
+__________transaction 73____________
+date 2022-11-10 is before 2022-11-20. PASS
+__________transaction 73____________
+date 2022-11-10 is before 2022-11-20. PASS
+__________transaction 73____________
+date 2022-11-17 is before 2022-11-20. PASS
+__________transaction 73____________
+date 2022-09-22 is before 2022-11-20. PASS
+__________transaction 73____________
+__________transaction 73 END____________
+
+
+
+__________transaction 74____________
+date 2022-11-11 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-12 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-07 is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-22 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-29 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-09 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-04 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-27 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-03 is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-02 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-02 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-11-02 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-31 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-31 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-25 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-24 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-10 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-18 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-28 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-23 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-04 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-07 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-14 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-24 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-11 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-22 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-26 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-30 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-14 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-04 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-07 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-05 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-03 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-03 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-21 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-15 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-04 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-03 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-14 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-23 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-02 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-20 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-12 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-25 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-23 is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-08 is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-01 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-16 is before 2022-11-20. PASS
+__________transaction 74____________
+date None is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-23 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-09-27 is before 2022-11-20. PASS
+__________transaction 74____________
+date 2022-10-05 is before 2022-11-20. PASS
+{'Casper Wang': {'SUMIKA Midori': 101.62950000000001,
+                 'Wenting Sun': 123.5805,
+                 'astastya': 27.06349999999999,
+                 '朝阳 郝': 0.6380000000000052},
+ 'SUMIKA Midori': {'Casper Wang': -101.62950000000001,
+                   'Wenting Sun': -28.095999999999975,
+                   'astastya': -63.87199999999997,
+                   '朝阳 郝': -17.134},
+ 'Wenting Sun': {'Casper Wang': -123.5805,
+                 'NO BUYER': 5.75,
+                 'SUMIKA Midori': 28.095999999999975,
+                 'astastya': -45.996999999999986,
+                 '朝阳 郝': -55.51499999999999},
+ 'astastya': {'Casper Wang': -27.06349999999999,
+              'SUMIKA Midori': 63.87199999999997,
+              'Wenting Sun': 45.996999999999986,
+              '朝阳 郝': 13.502000000000002},
+ '伯涵 刘': {'Wenting Sun': 13.502, 'astastya': 4.496},
+ '朝阳 郝': {'Casper Wang': -0.6380000000000052,
+          'SUMIKA Midori': 17.134,
+          'Wenting Sun': 55.51499999999999,
+          'astastya': -13.502000000000002}}
+STATISTICS: 
+
+'MONEY FROM ENTIRE DB : 4455.13'
+
+'MONEY FROM RANGE: 1907.2300000000005'
+
+{'Food': 1607.3400000000004, 'Home': 61.8, 'delivery': 238.09}
+
+{'Casper Wang': 378.44149999999985,
+ 'NO BUYER': 5.75,
+ 'SUMIKA Midori': 396.6184999999999,
+ 'Wenting Sun': 447.93149999999986,
+ 'astastya': 453.3514999999999,
+ '伯涵 刘': 17.998,
+ '朝阳 郝': 207.13900000000004}
